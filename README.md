@@ -11,7 +11,7 @@ This is a Python-based stock portfolio tracker that allows users to track their 
 - View portfolio allocation with a pie chart.
 - Learn how the app works with an easy-to-use interface.
 
-##Requirements:
+## Requirements:
 - Python 3.x
 - yfinance (for fetching live stock data)
 - matplotlib (for visualizing portfolio allocation)
@@ -33,7 +33,7 @@ This is a Python-based stock portfolio tracker that allows users to track their 
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
 
-##Necessary Imports:
+## Necessary Imports:
 
 - import tkinter as tk
 - from tkinter import ttk, messagebox
